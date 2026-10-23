@@ -1,6 +1,7 @@
 $${\color{#85819C} wip }$$
 <div align="center">
-
+ 
+![Visitors](https://api.visitorbadge.io/api/visitors?path=tellthatmick&label=loose%20lips%20sink%20ships&labelColor=%23193a43&countColor=%23176e84&style=flat)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Griffy&size=32&duration=3000&pause=10&color=004A5E&width=435&lines=Let's+play+this+game%2C;+Called+%22when+you+catch+fire;I+wouldn't+piss+to+put+you+out%22;Stop+burning+bridges+;+Drive+off+of+them;So+I+can+forget+about+you)](https://git.io/typing-svg)
 </div>
