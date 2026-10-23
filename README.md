@@ -15,7 +15,7 @@ $${\color{#85819C} wip }$$
     <tr>
       <!-- LEFT COLUMN: TEXT & LINKS -->
       <td width="30%" valign="top" align="center">
-        <h3> $${\color{004A5E} crispy \space fries}$$ </h3>
+        <h3> $${\color{004A5E} so \space awesome \space sauce}$$ </h3>
 
 [@dolli3ciful](https://github.com/dolli3ciful)
 [@crumbbii](https://github.com/crumbbii)
@@ -36,7 +36,7 @@ $${\color{#85819C} wip }$$
 [@spideywebs](https://github.com/spideywebs)
 [@leon-kennedih](https://github.com/leon-kennedih)
 
-$${\color{lightblue} pls \space lmk \space if \space i \space forgot \space to \space add \space you. \space tysm \space love \space y'all \space okok!!}$$
+$${\color{004A5E} pls \space lmk \space if \space i \space forgot \space to \space add \space you. \space tysm \space love \space y'all \space okok!!}$$
 
 </details>
 
