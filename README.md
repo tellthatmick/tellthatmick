@@ -10,6 +10,11 @@ $${\color{#85819C} wip }$$
  
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31snv2vi4xzjf4325gkgmh2lwlja&cover_image=true&theme=natemoo-re&show_offline=false&background_color=006075&interchange=true&profanity=false&hide_remaster=false&bar_color=006075&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 </div>
+
+[<img width="498" height="498" alt="ezgif-effects-ezgif com-remove-background" src="https://github.com/user-attachments/assets/bd9bde39-126f-4574-8b25-cbbfb1d0c043" />
+](https://tellthatmick.atabook.org/) i'll add the rest later ok im going to sleep now....
+
+
 <div align="center">
   <table border="0" cellpadding="10" cellspacing="0">
     <tr>
