@@ -24,7 +24,9 @@ $${\color{#85819C} wip }$$
  <table>
   <tr>
     <td valign="top" width="30%">
+     <div align="center">
       <img width="300" height="300" alt="Untitled14_20261023162152-removebg-preview" src="https://github.com/user-attachments/assets/ea2dff86-2df0-4188-8cfa-12539f4dc572" /> 
+     </div>
  <div align="right">
      $${\color{004A5E} raccoons... --> }$$
  </div>
