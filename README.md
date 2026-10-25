@@ -1,3 +1,6 @@
+<img width="1280" height="69" alt="Untitled17_20261025090822" src="https://github.com/user-attachments/assets/b6a5c558-9f2f-4348-acd1-64c372794956" />
+
+
 $${\color{#85819C} wip }$$
 <div align="center">
  
