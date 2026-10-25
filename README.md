@@ -20,6 +20,17 @@ $${\color{#85819C} wip }$$
 ](https://tellthatmick.atabook.org/) i'll add the rest later ok im going to sleep now....
 </div>
 
+  
+ <table>
+  <tr>
+    <td valign="top" width="30%">
+      <img width="200" height="200" alt="Untitled14_20261023162152-removebg-preview" src="https://github.com/user-attachments/assets/ea2dff86-2df0-4188-8cfa-12539f4dc572" /> <!-- alt="Description" width="100%" -->
+    </td>
+    <td valign="top" width="70%">
+
+<!-- Leave the blank line above! Paste your code block or box content directly below this line -->
+
+
 <div align="center">
   <table border="0" cellpadding="10" cellspacing="0">
     <tr>
@@ -53,6 +64,13 @@ $${\color{004A5E} pls \space lmk \space if \space i \space forgot \space to \spa
 
      
   </table>
+  </div>
   
   <!-- OPTIONAL FOOTER DIVIDER -->
   <p>︶⊹︶︶୨୧︶︶⊹︶</p> <div align="center">
+
+   <div align="left">
+
+
+   </div>
+
