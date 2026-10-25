@@ -55,6 +55,7 @@ $${\color{#85819C} wip }$$
 [@leon-kennedih](https://github.com/leon-kennedih)
 [@fruitsaIad](https://github.com/fruitsaIad)
 [@bioterrors](https://github.com/bioterrors)
+[@homebutcher](https://github.com/homebutcher)
 
 $${\color{004A5E} pls \space lmk \space if \space i \space forgot \space to \space add \space you. \space tysm \space love \space y'all \space okok!!}$$
 
