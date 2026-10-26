@@ -69,8 +69,15 @@ $${\color{004A5E} pls \space lmk \space if \space i \space forgot \space to \spa
 <div align="center">
   <p>︶⊹︶︶୨୧︶︶⊹︶</p>
 </div>
-   <div align="left">
 
+     
+<div align="center">    
+<details>
+  <summary> $${\color{004A5E} my \space most \space used \space ponies \space as \space of \space now!! \space (I \space will \space update \space this \space when \space needed }$$</summary>
+ 
+  <img width="212" height="228" alt="pony-town-🐾 leon &#39; offtab c_h enc!!-kiss-lift-hoof-blinking-padded-4x" src="https://github.com/user-attachments/assets/c8dfbde0-4187-4165-8116-1ab18160e026" /><img width="212" height="276" alt="pony-town-🐾 leon &#39; offtab c_h-kiss-lift-hoof-blinking-padded-ponyplush-4x" src="https://github.com/user-attachments/assets/7e4d37be-3675-4311-abb3-e3309fd64e5b" />
 
-   </div>
+</details>
+</div>
+
 
