@@ -28,14 +28,14 @@ $${\color{#85819C} wip }$$
       <img width="300" height="300" alt="Untitled14_20261023162152-removebg-preview" src="https://github.com/user-attachments/assets/ea2dff86-2df0-4188-8cfa-12539f4dc572" /> 
      </div>
  <div align="right">
-     $${\color{004A5E} raccoons... --> }$$
+     $${\color{#004A5E} raccoons... --> }$$
  </div>
     </td>
      <pre style="white-space: pre-wrap; word-wrap: break-word;">
       <td width="30%" valign="top" align="center">
-        <h3> $${\color{004A5E} so \space awesome \space sauce}$$ </h3>
+        <h3> $${\color{#004A5E} so \space awesome \space sauce}$$ </h3>
 
-$${\color{089ad3} CHEZDAN \space MAKE \space GITHUB \space NOW \space OR \space I \space BITE \space * \space anger \space emoji \space *}$$
+$${\color{#089ad3} CHEZDAN \space MAKE \space GITHUB \space NOW \space OR \space I \space BITE \space * \space anger \space emoji \space *}$$
 
 [@dolli3ciful](https://github.com/dolli3ciful)
 [@crumbbii](https://github.com/crumbbii)
@@ -59,7 +59,7 @@ $${\color{089ad3} CHEZDAN \space MAKE \space GITHUB \space NOW \space OR \space 
 [@bioterrors](https://github.com/bioterrors)
 [@homebutcher](https://github.com/homebutcher)
 
-$${\color{004A5E} pls \space lmk \space if \space i \space forgot \space to \space add \space you. \space tysm \space love \space y'all \space okok!!}$$
+$${\color{#004A5E} pls \space lmk \space if \space i \space forgot \space to \space add \space you. \space tysm \space love \space y'all \space okok!!}$$
 
 </details>
 
@@ -75,7 +75,7 @@ $${\color{004A5E} pls \space lmk \space if \space i \space forgot \space to \spa
      
 <div align="center">    
 <details>
-  <summary> $${\color{004A5E} my \space most \space used \space ponies \space as \space of \space now!! \space (I \space will \space update \space this \space when \space needed) }$$</summary>
+  <summary> $${\color{#004A5E} my \space most \space used \space ponies \space as \space of \space now!! \space (I \space will \space update \space this \space when \space needed) }$$</summary>
  
  <img width="188" height="236" alt="pony-town-🐾 leon &#39; @school c_h enc!!-trot-blinking-padded-4x" src="https://github.com/user-attachments/assets/1863bdf4-b7db-4f49-a10a-c06c17bc9fb1" /><img width="188" height="252" alt="pony-town-☠ mankind&#39;s bad HABIT-trot-blinking-padded-4x" src="https://github.com/user-attachments/assets/d766644d-90f0-4ec1-acc4-c309b0678c77" />
 
