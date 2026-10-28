@@ -35,7 +35,7 @@ $${\color{#85819C} wip }$$
       <td width="30%" valign="top" align="center">
         <h3> $${\color{004A5E} so \space awesome \space sauce}$$ </h3>
 
-$${\color{089ad3} CHEZDAN \space MAKE \space GITHUB \space NOW \space OR \space I \space BITE \space *anger \space emoji* }$$
+$${\color{089ad3} CHEZDAN \space MAKE \space GITHUB \space NOW \space OR \space I \space BITE \space *anger \space emoji*}$$
 
 [@dolli3ciful](https://github.com/dolli3ciful)
 [@crumbbii](https://github.com/crumbbii)
