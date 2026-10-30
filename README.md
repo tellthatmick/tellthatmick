@@ -2,8 +2,9 @@
 
 
 $${\color{#85819C} wip }$$
+ [hi chudlander ily/p](https://github.com/fruitsaIad)
 <div align="center">
- 
+
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=tellthatmick&label=loose%20lips%20sink%20ships&labelColor=%23193a43&countColor=%23176e84&style=flat)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Griffy&size=32&duration=3000&pause=10&color=004A5E&width=435&lines=I+don't+care+if+you're+sick;+I+don't+care+if+you're+contagious;I+would+kiss+you;Even+if+you+were+dead;Would+somebody+make+me;+Go+blind+for+the+rest+of+my+life;Cause+I'd+do+anything;To+hold+your+hand)](https://git.io/typing-svg)
