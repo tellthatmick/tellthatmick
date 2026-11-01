@@ -60,6 +60,8 @@ $${\color{#089ad3} CHEZDAN \space MAKE \space GITHUB \space NOW \space OR \space
 [@fruitsaIad](https://github.com/fruitsaIad)
 [@bioterrors](https://github.com/bioterrors)
 [@homebutcher](https://github.com/homebutcher)
+[@luhkliet](https://github.com/luhkliet)
+[@ethanwinxters](https://github.com/ethanwinxters)
 
 $${\color{#004A5E} pls \space lmk \space if \space i \space forgot \space to \space add \space you. \space tysm \space love \space y'all \space okok!!}$$
 
