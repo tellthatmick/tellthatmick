@@ -3,7 +3,7 @@
 
 $${\color{#85819C} wip }$$
 
- [hi chudlander ily/p](https://github.com/fruitsaIad)
+ [hi fat chud leave me tf alone pls omg wai no ilyok mwah](https://github.com/fruitsaIad)
 <div align="center">
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=tellthatmick&label=loose%20lips%20sink%20ships&labelColor=%23193a43&countColor=%23176e84&style=flat)
