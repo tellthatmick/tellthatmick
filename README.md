@@ -65,6 +65,7 @@ $${\color{#089ad3} CHEZDAN \space MAKE \space GITHUB \space NOW \space OR \space
 [@arrowhazard](https://github.com/arrowhazard)
 [@KitKatCatKat](https://github.com/KitKatCatKat)
 [@enkandikka](https://github.com/enkandikka)
+[@soliivance](https://github.com/soliivance)
 
 $${\color{#004A5E} pls \space lmk \space if \space i \space forgot \space to \space add \space you. \space tysm \space love \space y'all \space okok!!}$$
 
