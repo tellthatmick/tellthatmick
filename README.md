@@ -23,7 +23,7 @@ $${\color{#85819C} wip }$$
   [@THE-TEMPIST](https://github.com/THE-TEMPIST)
   [@bug-town](https://github.com/bug-town)
   [@Ponytowns-rewards](https://github.com/Ponytowns-rewards)
-  [@pony-town-nominations](https://github/com/pony-town-nominations)
+  [@pony-town-nominations](https://github.com/pony-town-nominations)
 
   $${\color{#004A5E} nominated \space under \space tellthatmick \space or \space gracerockysavepax}$$
   
