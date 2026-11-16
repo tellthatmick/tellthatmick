@@ -17,9 +17,16 @@ $${\color{#85819C} wip }$$
 </div>
 
 <div align="center">
+<details>
+  <summary> $${\color{#004A5E} awards }$$</summary>
 
-[<img width="65" height="55" alt="ezgif-effects" src="https://github.com/user-attachments/assets/4d60ab28-eb6b-40ea-a58b-1f5b482b9d50" />
-](https://tellthatmick.atabook.org/) i'll add the rest later ok im going to sleep now....
+  [@THE-TEMPIST](https://github.com/THE-TEMPIST)
+  [@bug-town](https://github.com/bug-town)
+  [@Ponytowns-rewards](https://github.com/Ponytowns-rewards)
+
+  $${\color{#004A5E} nominated \space under \space tellthatmick \space or \space gracerockysavepax}$$
+  
+</details>
 </div>
 
   
