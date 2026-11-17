@@ -93,7 +93,8 @@ $${\color{#004A5E} pls \space lmk \space if \space i \space forgot \space to \sp
 <details>
   <summary> $${\color{#004A5E} my \space most \space used \space ponies \space as \space of \space now!! \space (I \space will \space update \space this \space when \space needed) }$$</summary>
  
- <img width="188" height="232" alt="pony-town-neroberry again ok-trot-blinking-padded-4x" src="https://github.com/user-attachments/assets/d5c50029-b2be-4183-9234-2a4fdb42cb7a" /><img width="172" height="232" alt="pony-town-yeah boy and doll face-trot-blinking-padded-4x" src="https://github.com/user-attachments/assets/7dec1209-46bb-4030-9fb4-b7f36f0e80cc" />
+ <img width="192" height="232" alt="pony-town-be still your ♡-trot-blinking-padded-4x" src="https://github.com/user-attachments/assets/3c9366a0-faa1-43d0-a001-c31f2ab715f3" /><img width="200" height="232" alt="pony-town-  do not resuscitate-trot-blinking-padded-4x" src="https://github.com/user-attachments/assets/5f90d1bc-9cab-4356-85b4-5564e0f29b2c" />
+
 
 
 
