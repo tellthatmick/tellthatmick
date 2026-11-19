@@ -16,7 +16,7 @@ $${\color{#85819C} wip }$$
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31snv2vi4xzjf4325gkgmh2lwlja&cover_image=true&theme=natemoo-re&show_offline=false&background_color=006075&interchange=true&profanity=false&hide_remaster=false&bar_color=006075&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 </div>
 
-$${\color{#004A5E} dni \space - \space 20+ \space -14 \space ok }$$
+$${\color{#004A5E} dni \space 20+ \space -14 \space ok }$$
 
 <div align="center">
 <details>
