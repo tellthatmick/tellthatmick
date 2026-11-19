@@ -56,7 +56,6 @@ $${\color{#089ad3} CHEZDAN \space MAKE \space GITHUB \space NOW \space OR \space
 [@TabbyCatCollective](https://github.com/TabbyCatCollective)
 [@M3gitsune](https://github.com/M3gitsune)
 [@caswashere](https://github.com/caswashere)
-[@DivisionOfSecurityOperations](https://github.com/DivisionOfSecurityOperations)
 [@Bryan-Hodukavich](https://github.com/Bryan-Hodukavich)
 [@bannysuperman](https://github.com/bannysuperman)
 [@stevengrants](https://github.com/stevengrants)
