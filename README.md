@@ -3,7 +3,7 @@
 
 $${\color{#85819C} wip }$$
 
-<a href="https://github.com/fruitsaIad" style="color: white; text-decoration: underline;text-decoration-style: dotted;">hi pumpkin awwww ilyok mwah</a>
+<a href="https://github.com/fruitsaIad" style="color: black; text-decoration: underline;text-decoration-style: dotted;">hi pumpkin awwww ilyok mwah</a>
  []()
 <div align="center">
 
