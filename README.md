@@ -73,6 +73,7 @@ $${\color{#089ad3} CHEZDAN \space MAKE \space GITHUB \space NOW \space OR \space
 [@KitKatCatKat](https://github.com/KitKatCatKat)
 [@enkandikka](https://github.com/enkandikka)
 [@soliivance](https://github.com/soliivance)
+[@sczkat](https://github.com/sczkat)
 
 
 
