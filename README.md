@@ -63,7 +63,6 @@ $${\color{#089ad3} CHEZDAN \space MAKE \space GITHUB \space NOW \space OR \space
 [@wes-borland](https://github.com/wes-borland)
 [@frontalllobe](https://github.com/frontalllobe)
 [@spideywebs](https://github.com/spideywebs)
-[@leon-kennedih](https://github.com/leon-kennedih)
 [@fruitsaIad](https://github.com/fruitsaIad)
 [@bioterrors](https://github.com/bioterrors)
 [@homebutcher](https://github.com/homebutcher)
