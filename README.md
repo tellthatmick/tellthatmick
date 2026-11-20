@@ -10,7 +10,7 @@ $${\color{#85819C} wip }$$
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=tellthatmick&label=bulls%20in%20the%20bronx&labelColor=%23193a43&countColor=%23176e84&style=flat)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Griffy&size=32&duration=3000&pause=10&color=004A5E&width=435&lines=I+don't+care+if+you're+sick;+I+don't+care+if+you're+contagious;I+would+kiss+you;Even+if+you+were+dead;Would+somebody+make+me;+Go+blind+for+the+rest+of+my+life;Cause+I'd+do+anything;To+hold+your+hand)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Griffy&size=32&duration=3000&pause=10&color=004A5E&width=435&lines=But+I+will+soon+forget;+The+color+of+your+eyes+;And+you'll+forget+mine;So+keep+in+happiness;And+torture+me;+While+I+tell+you+"Let's+go+in+style";A+million+hooks+around;A+million+ways+to+die)](https://git.io/typing-svg)
 </div>
 
 <div align="center">
