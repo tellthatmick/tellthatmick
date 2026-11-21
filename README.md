@@ -21,6 +21,9 @@ $${\color{#85819C} wip }$$
 $${\color{#004A5E} dni \space 20+ \space / \space -14 \space ok }$$
 
 <div align="center">
+
+chezdan lovemail coming soon ok
+ 
 <details>
   <summary> $${\color{#004A5E} awards }$$</summary>
 
@@ -29,10 +32,12 @@ $${\color{#004A5E} dni \space 20+ \space / \space -14 \space ok }$$
   [@Ponytowns-rewards](https://github.com/Ponytowns-rewards)
   [@pony-town-nominations](https://github.com/pony-town-nominations)
 
-  $${\color{#004A5E} nominated \space under \space tellthatmick \space or \space gracerockysavepax}$$
+  $${\color{#004A5E} nominated \space under \space tellthatmick, \space gracerockysavepax, and neroberry}$$
   
 </details>
 </div>
+
+
 
   
  <table>
