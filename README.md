@@ -32,7 +32,7 @@ chezdan lovemail coming soon ok
   [@Ponytowns-rewards](https://github.com/Ponytowns-rewards)
   [@pony-town-nominations](https://github.com/pony-town-nominations)
 
-  $${\color{#004A5E} nominated \space under \space tellthatmick, \space gracerockysavepax, and neroberry}$$
+  $${\color{#004A5E} nominated \space under \space tellthatmick, \space gracerockysavepax, and \space neroberry}$$
   
 </details>
 </div>
