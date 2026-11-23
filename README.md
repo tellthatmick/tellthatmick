@@ -80,10 +80,10 @@ $${\color{#089ad3} CHEZDAN \space MAKE \space GITHUB \space NOW \space OR \space
 [@ethanwinxters](https://github.com/ethanwinxters)
 [@arrowhazard](https://github.com/arrowhazard)
 [@KitKatCatKat](https://github.com/KitKatCatKat)
-[@enkandikka](https://github.com/enkandikka)
-[@soliivance](https://github.com/soliivance)
-[@sczkat](https://github.com/sczkat)
-[$${\color{#FFFFFF} 𝘷𝘢𝘭𝘦𝘳𝘺}$$](https://github.com/VALRYY)
+[𝘫𝘰𝘶𝘥𝘦](https://github.com/enkandikka)
+[𝘴𝘢𝘸𝘦𝘯](https://github.com/soliivance)
+[𝘧𝘳𝘢𝘯𝘬](https://github.com/sczkat)
+[𝘷𝘢𝘭𝘦𝘳𝘺](https://github.com/VALRYY)
 
 
 
