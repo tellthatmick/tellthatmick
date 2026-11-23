@@ -83,6 +83,7 @@ $${\color{#089ad3} CHEZDAN \space MAKE \space GITHUB \space NOW \space OR \space
 [@enkandikka](https://github.com/enkandikka)
 [@soliivance](https://github.com/soliivance)
 [@sczkat](https://github.com/sczkat)
+[$${\color{#FFFFFF} 𝘷𝘢𝘭𝘦𝘳𝘺 }$$](https://github.com/VALRYY)
 
 
 
