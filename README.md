@@ -25,7 +25,7 @@ $${\color{#004A5E} dni \space 20+ \space / \space -14 \space ok }$$
 [this is a wip ok](https://rentry.co/ilovechezdan)
 
 
-[--> click here 4 palestine](https://arab.org/click-to-help/palestine/)
+$${\color{#004A5E} --> click \space}$$ [here](https://arab.org/click-to-help/palestine/) $${\color{#004A5E} 4 \space palestine}$$
  
 <details>
   <summary> $${\color{#004A5E} awards }$$</summary>
