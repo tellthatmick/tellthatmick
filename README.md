@@ -22,7 +22,7 @@ $${\color{#004A5E} dni \space 20+ \space / \space -14 \space ok }$$
 
 <div align="center">
 
-chezdan lovemail coming soon ok
+[this is a wip ok](https://rentry.co/ilovechezdan)
  
 <details>
   <summary> $${\color{#004A5E} awards }$$</summary>
