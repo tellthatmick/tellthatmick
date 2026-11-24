@@ -23,6 +23,7 @@ $${\color{#004A5E} dni \space 20+ \space / \space -14 \space ok }$$
 <div align="center">
 
 [this is a wip ok](https://rentry.co/ilovechezdan)
+[click here!!!](https://arab.org/click-to-help/palestine/)
  
 <details>
   <summary> $${\color{#004A5E} awards }$$</summary>
