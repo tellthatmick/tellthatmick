@@ -4,8 +4,7 @@
 $${\color{#85819C} wip }$$
 
 
-<a href="https://github.com/fruitsaIad" style="color: black; text-decoration: underline;text-decoration-style: dotted;">hi lili jumps ok</a>
- []()
+
 <div align="center">
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=tellthatmick&label=bulls%20in%20the%20bronx&labelColor=%23193a43&countColor=%23176e84&style=flat)
