@@ -75,7 +75,6 @@ $${\color{#089ad3} CHEZDAN \space MAKE \space GITHUB \space NOW \space OR \space
 [𝘤𝘩𝘳𝘪𝘴](https://github.com/wes-borland)
 [𝘮𝘰𝘳𝘨𝘢𝘯](https://github.com/frontalllobe)
 [𝘵𝘰𝘳](https://github.com/spideywebs)
-[𝘭𝘪𝘢𝘮](https://github.com/fruitsaIad)
 [𝘥𝘪𝘢𝘯𝘢](https://github.com/bioterrors)
 [𝘤𝘩𝘢𝘳𝘭𝘪𝘦](https://github.com/homebutcher)
 [𝘭𝘶𝘩𝘬](https://github.com/luhkliet)
