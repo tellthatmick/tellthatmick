@@ -46,7 +46,7 @@ $${\color{#004A5E} --> click \space}$$ [here](https://arab.org/click-to-help/pal
   <tr>
     <td valign="top" width="30%">
      <div align="center">
-      <img width="1000" height="1000" alt="wowtimmy" src="https://github.com/user-attachments/assets/9eecb8c2-79e9-44ae-abb6-058f9ead471f" />
+      <img width="500" height="500" alt="wowtimmy" src="https://github.com/user-attachments/assets/9eecb8c2-79e9-44ae-abb6-058f9ead471f" />
      </div>
  <div align="right">
      $${\color{#004A5E} racoons... --> }$$
