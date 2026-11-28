@@ -46,10 +46,10 @@ $${\color{#004A5E} --> click \space}$$ [here](https://arab.org/click-to-help/pal
   <tr>
     <td valign="top" width="30%">
      <div align="center">
-      <img width="300" height="300" alt="Untitled14_20261023162152-removebg-preview" src="https://github.com/user-attachments/assets/ea2dff86-2df0-4188-8cfa-12539f4dc572" /> 
+      <img width="1000" height="1000" alt="Untitled10_20261128120833" src="https://github.com/user-attachments/assets/742955ab-448a-4d2f-9ea1-90a83c8bb9c2" />
      </div>
  <div align="right">
-     $${\color{#004A5E} raccoons... --> }$$
+     $${\color{#004A5E} racoons... --> }$$
  </div>
     </td>
      <pre style="white-space: pre-wrap; word-wrap: break-word;">
